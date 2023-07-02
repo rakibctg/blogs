@@ -40,7 +40,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://soumyajit.vercel.app/"
+              href="https://rakibctg.vercel.app/"
             >
               See My Works
             </a>
@@ -52,7 +52,7 @@ function about({ topics }) {
               className="twitter-follow-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/rakibctg786"
             >
               Follow Me
             </a>
